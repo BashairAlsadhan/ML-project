@@ -1,3 +1,5 @@
+<img src="logo2.png" alt="Raqeeb Logo" width="300"/>
+
 # ParkSmart - Practical Machine Learning Course
 
 With rising student numbers and limited parking, efficient management is critical. Currently, parking at KSU relies on outdated "blind search" methods, causing delays and congestion as students and faculty hunt for spots.
